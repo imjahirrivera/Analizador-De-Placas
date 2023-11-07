@@ -1,0 +1,142 @@
+[
+    {
+        "codigo": "MY-7503-A",
+        "fecha_registro": "2023-11-07",
+        "nombre": "Liam Smith"
+    },
+    {
+      "codigo": "ZK-7503-A",
+      "fecha_registro": "2023-11-07",
+      "nombre": "Liam Smith"
+    },
+    {
+      "codigo": "MY-7503-4",
+      "fecha_registro": "2023-11-06",
+      "nombre": "Olivia Johnson"
+    },
+    {
+      "codigo": "NY-7503-A",
+      "fecha_registro": "2023-11-05",
+      "nombre": "Noah Williams"
+    },
+    {
+      "codigo": "NY-7503-4",
+      "fecha_registro": "2023-11-04",
+      "nombre": "Emma Brown"
+    },
+    {
+      "codigo": "MY-7503-f",
+      "fecha_registro": "2023-11-03",
+      "nombre": "William Jones"
+    },
+    {
+      "codigo": "RF-7890-F",
+      "fecha_registro": "2023-11-02",
+      "nombre": "Ava Garcia"
+    },
+    {
+      "codigo": "TG-2345-G",
+      "fecha_registro": "2023-11-01",
+      "nombre": "James Davis"
+    },
+    {
+      "codigo": "UI-6789-H",
+      "fecha_registro": "2023-10-31",
+      "nombre": "Isabella Rodriguez"
+    },
+    {
+      "codigo": "OP-0123-I",
+      "fecha_registro": "2023-10-30",
+      "nombre": "Benjamin Martinez"
+    },
+    {
+      "codigo": "DF-4567-J",
+      "fecha_registro": "2023-10-29",
+      "nombre": "Sophia Hernandez"
+    },
+    {
+      "codigo": "QW-8910-K",
+      "fecha_registro": "2023-10-28",
+      "nombre": "Michael Wilson"
+    },
+    {
+      "codigo": "ER-1112-L",
+      "fecha_registro": "2023-10-27",
+      "nombre": "Emily Davis"
+    },
+    {
+      "codigo": "TY-1314-M",
+      "fecha_registro": "2023-10-26",
+      "nombre": "Daniel Perez"
+    },
+    {
+      "codigo": "UI-1516-N",
+      "fecha_registro": "2023-10-25",
+      "nombre": "Mia Martin"
+    },
+    {
+      "codigo": "OP-1718-O",
+      "fecha_registro": "2023-10-24",
+      "nombre": "Alexander Rodriguez"
+    },
+    {
+      "codigo": "DF-1920-P",
+      "fecha_registro": "2023-10-23",
+      "nombre": "Sofia Hernandez"
+    },
+    {
+      "codigo": "QW-2122-Q",
+      "fecha_registro": "2023-10-22",
+      "nombre": "David Wilson"
+    },
+    {
+      "codigo": "ER-2324-R",
+      "fecha_registro": "2023-10-21",
+      "nombre": "Victoria Davis"
+    },
+    {
+      "codigo": "TY-2526-S",
+      "fecha_registro": "2023-10-20",
+      "nombre": "Ethan Perez"
+    },
+    {
+      "codigo": "UI-2728-T",
+      "fecha_registro": "2023-10-19",
+      "nombre": "Chloe Martin"
+    },
+    {
+      "codigo": "OP-2930-U",
+      "fecha_registro": "2023-10-18",
+      "nombre": "Christopher Rodriguez"
+    },
+    {
+      "codigo": "DF-3132-V",
+      "fecha_registro": "2023-10-17",
+      "nombre": "Isabella Hernandez"
+    },
+    {
+      "codigo": "QW-3334-W",
+      "fecha_registro": "2023-10-16",
+      "nombre": "Joseph Wilson"
+    },
+    {
+      "codigo": "ER-3536-X",
+      "fecha_registro": "2023-10-15",
+      "nombre": "Madison Davis"
+    },
+    {
+      "codigo": "TY-3738-Y",
+      "fecha_registro": "2023-10-14",
+      "nombre": "Aiden Perez"
+    },
+    {
+      "codigo": "UI-3940-Z",
+      "fecha_registro": "2023-10-13",
+      "nombre": "Abigail Martin"
+    },
+    {
+      "codigo": "OP-4142-A1",
+      "fecha_registro": "2023-10-12",
+      "nombre": "Juana"
+    }
+]
